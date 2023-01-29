@@ -93,4 +93,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace github.com/operator-framework/deppy => /home/perdasilva/repos/perdasilva/deppy
+replace github.com/operator-framework/deppy => /Users/vnarsing/go/src/github.com/operator-framework/olmv1/deppy
